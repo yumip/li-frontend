@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "almostawake"
+  },
+  "targets": {
+    "almostawake": {
+      "hosting": {
+        "lnscraping": [
+          "almostawake"
+        ]
+      }
+    }
+  }
+}
